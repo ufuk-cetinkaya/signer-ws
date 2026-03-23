@@ -1,0 +1,27 @@
+Main-Class: com.example.signerws.SignerWsServer
+Class-Path: lib/akiscif-3.3.20.jar lib/armeabi-0.0.1.jar lib/asn1rt-6.6.4.jar
+ lib/Assd_api-0.0.1.jar lib/axis-1.4.jar lib/commons-discovery-0.2.jar
+ lib/commons-logging-1.1.1.jar lib/cryptolib-0.0.1.jar lib/dianta2-api-1.0.3.jar
+ lib/fontbox-2.0.20.jar lib/jaxrpc-api-1.1.jar lib/jna-4.2.1.jar
+ lib/ma3api-asic-2.3.11.8.jar lib/ma3api-asn-2.3.11.8.jar
+ lib/ma3api-aveamssprovider-2.3.11.8.jar
+ lib/ma3api-certstore-2.3.11.8.jar
+ lib/ma3api-certvalidation-2.3.11.8.jar
+ lib/ma3api-cmssignature-2.3.11.8.jar
+ lib/ma3api-common-2.3.11.8.jar
+ lib/ma3api-crypto-2.3.11.8.jar
+ lib/ma3api-crypto-gnuprovider-2.3.11.8.jar
+ lib/ma3api-crypto-sunprovider-2.3.11.8.jar
+ lib/ma3api-infra-2.3.11.8.jar
+ lib/ma3api-mssclient-2.3.11.8.jar
+ lib/ma3api-pades-pdfbox-2.3.11.8.jar
+ lib/ma3api-signature-2.3.11.8.jar
+ lib/ma3api-smartcard-2.3.11.8.jar
+ lib/ma3api-turkcellmssprovider-2.3.11.8.jar
+ lib/ma3api-vodafonemssprovider-2.3.11.8.jar
+ lib/ma3api-xmlsignature-2.3.11.8.jar
+ lib/pdfbox-2.0.20.jar
+ lib/slf4j-api-1.7.32.jar
+ lib/sqlite-jdbc-3.7.2.jar
+ lib/trustapicore-1.0.0.jar
+ lib/wsdl4j-1.6.2.jar

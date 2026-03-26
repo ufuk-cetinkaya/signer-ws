@@ -40,8 +40,8 @@
 
     <validation>
         <!-- default policy for certificate validation -->
-        <certificate-validation-policy-file>certval-policy-test.xml</certificate-validation-policy-file>
-        <certificate-validation-policy-file for="MaliMuhurCertificate">certval-policy-malimuhur.xml</certificate-validation-policy-file>
+        <certificate-validation-policy-file>/app/config/certval-policy-test.xml</certificate-validation-policy-file>
+        <certificate-validation-policy-file for="MaliMuhurCertificate">/app/config/certval-policy-malimuhur.xml</certificate-validation-policy-file>
         <!-- grace period is the time that needs to pass to get exact revocation info-->
         <grace-period-in-seconds>0</grace-period-in-seconds>
         <!-- how old revocation data should be accepted? -->
